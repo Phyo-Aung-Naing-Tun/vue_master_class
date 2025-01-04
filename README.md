@@ -43,3 +43,8 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+### Unplugin Vue Router
+
+This is for file based routing
+Documentation -> https://uvr.esm.is/
