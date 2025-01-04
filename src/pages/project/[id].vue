@@ -6,4 +6,5 @@ const route = useRoute();
 
 <template>
   <div>Project {{ route.params?.id }}</div>
+  <router-link to="/">go to home</router-link>
 </template>
